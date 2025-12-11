@@ -459,5 +459,5 @@ If you encounter issues not covered in these guides:
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
 *Tested on: Ubuntu 22.04 LTS & 24.04 LTS*
